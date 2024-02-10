@@ -1,7 +1,7 @@
 
-WebAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+
 WebAPI/obj/Debug/net6.0/refint/WebAPI.dll
-AngularClient/node_modules/
+
 .vs/WebAPI/DesignTimeBuild/.dtbcache.v2
 *.bin
 *.vsidx
@@ -18,7 +18,7 @@ AngularClient/node_modules/
 AngularClient/node_modules
 AngularClient/npm-debug.log
 AngularClient/yarn-error.log
-
+AngularClient/node_modules/
 # IDEs and editors
 AngularClient/.idea/
 AngularClient/.project
@@ -31,3 +31,4 @@ AngularClient/.settings/
 # Visual Studio Code
 AngularClient/.vscode/*
  
+WebAPI/obj/Release/
