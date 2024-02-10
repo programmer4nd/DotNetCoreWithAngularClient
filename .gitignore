@@ -6,4 +6,4 @@ AngularClient/node_modules/
 *.bin
 *.vsidx
 .vs/WebAPI/v17/.futdcache.v2
-.vs/WebAPI/v17/.suo
+.vs/
