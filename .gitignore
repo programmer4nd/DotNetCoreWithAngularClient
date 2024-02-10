@@ -26,6 +26,7 @@ AngularClient/.classpath
 AngularClient/.c9/
 AngularClient/*.launch
 AngularClient/.settings/
+AngularClient/.angular/
 *.sublime-workspace
 
 # Visual Studio Code
