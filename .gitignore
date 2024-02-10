@@ -2,3 +2,7 @@
 WebAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
 WebAPI/obj/Debug/net6.0/refint/WebAPI.dll
 AngularClient/node_modules/
+.vs/WebAPI/DesignTimeBuild/.dtbcache.v2
+*.bin
+*.vsidx
+.vs/WebAPI/v17/.futdcache.v2
