@@ -7,3 +7,4 @@ AngularClient/node_modules/
 *.vsidx
 .vs/WebAPI/v17/.futdcache.v2
 .vs/
+.vs7/
